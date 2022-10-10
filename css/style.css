@@ -1,0 +1,23 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.fizz{
+    background-color: rgb(0, 255, 98);
+}
+
+.buzz{
+    background-color: rgb(0, 60, 255);
+}
+
+.normal{
+    background-color: rgb(255, 251, 0);
+}
+
+.fizz_buzz{
+    background-color: rgb(255, 0, 0);
+}
